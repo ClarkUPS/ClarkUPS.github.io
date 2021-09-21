@@ -1,0 +1,12 @@
+
+/*Background color for main page*/
+body {background-color: #8cd8ed;}
+
+
+/* The default text size, alignment and font for paragraphs */
+p {
+    text-align: left;
+    font-size-adjust: 10pt;
+    font-family: "Helvetica";   
+
+}
