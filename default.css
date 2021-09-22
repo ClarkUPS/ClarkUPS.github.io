@@ -19,6 +19,11 @@ font-size: 35pt;
 margin:10px;
 }
 
+h2 {
+    font-weight: bold
+    /* need to indent*/
+}
+
 /*a custom format to get the photo and the text horizontal next to each other*/
 .format {
     float: left;
