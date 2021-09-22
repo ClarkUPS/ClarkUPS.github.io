@@ -5,8 +5,25 @@ body {background-color: #8cd8ed;}
 
 /* The default text size, alignment and font for paragraphs */
 p {
+    
     text-align: left;
-    font-size-adjust: 10pt;
-    font-family: "Helvetica";   
+    font-size: 10pt;
+    font-family: "Helvetica";
+
+}
+
+/*the title styling for the top of my website*/
+h1 { 
+font-family:monospace;
+font-size: 35pt;
+margin:10px;
+}
+
+/*a custom format to get the photo and the text horizontal next to each other*/
+.format {
+    float: left;
+    width: 15%; 
+    margin:5px;
+    box-sizing: border-box;
 
 }
