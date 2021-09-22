@@ -21,7 +21,7 @@ margin:10px;
 
 h2 {
     font-weight: bold
-    /* need to indent*/
+    /* need to indent ( left margin left padding )*/
 }
 
 /*a custom format to get the photo and the text horizontal next to each other*/
@@ -30,5 +30,10 @@ h2 {
     width: 15%; 
     margin:5px;
     box-sizing: border-box;
+
+}
+
+.linkres {
+float: none;
 
 }
