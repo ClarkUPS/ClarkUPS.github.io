@@ -32,8 +32,7 @@ h2 {
     box-sizing: border-box;
 
 }
-
-.linkres {
-float: none;
-
+/* a class for clearing formating from the float created above*/
+.clearfix {
+    clear: both;
 }
